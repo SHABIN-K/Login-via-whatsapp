@@ -41,4 +41,7 @@ A secure and user-friendly login system that utilizes WhatsApp for mobile number
 1. Clone the repository.
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SHABIN-K/Login-via-whatsapp.git
+   cd <project-directory>
+   npm start
+   
