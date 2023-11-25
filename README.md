@@ -50,3 +50,11 @@ A secure and user-friendly login system that utilizes WhatsApp for mobile number
 ### Contributing
    We welcome contributions from the community. Please fork the repository and submit pull requests.
 
+## Support   
+Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+   
+Report Bugs, Give Feature Requests There..   
+
+##
+
+   **Star this Repo if you Liked it ⭐⭐⭐**
