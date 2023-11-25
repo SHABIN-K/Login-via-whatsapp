@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  h1 Please enter your whatsapp number
+    form(action='/generate', method='post')
+      label(for='phone') Phone:
+      input(type='tel', name='phone', required)
+      br
+      input(type='submit', value='Generate OTP')
+  
+  if generated 
+    h3 Successfullly sended
+
+  h1 OTP Verification
+    form(action='/verify', method='post')
+      label(for='otp') Enter OTP:
+      input(type='number', name='otp', pattern='\d{5}', maxlength='5', required)
+      br
+      input(type='submit', value='Verify')   
+
+  if success
+    h3 Successfully verified
+
