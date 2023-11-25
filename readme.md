@@ -1,6 +1,6 @@
 # WhatsApp Login System
 
-![WhatsApp Login System](646e30635618cb80038f785d_Send OTP Using WhatsApp A Step-By-Step Guide](https://github.com/SHABIN-K/Login-via-whatsapp/assets/73272797/30b63448-52a2-4e5a-9bab-d68d621ec9a2)
+![WhatsApp Login System](https://github.com/SHABIN-K/Login-via-whatsapp/assets/73272797/30b63448-52a2-4e5a-9bab-d68d621ec9a2)
 
 A secure and user-friendly login system that utilizes WhatsApp for mobile number verification. Developers can integrate this system to enhance user authentication by sending one-time passcodes (OTPs) directly to users' WhatsApp accounts.
 
