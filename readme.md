@@ -40,6 +40,7 @@ A secure and user-friendly login system that utilizes WhatsApp for mobile number
    ```bash
    git clone https://github.com/SHABIN-K/Login-via-whatsapp.git
    cd <project-directory>
+   npm install
    npm start
    
 ### Contributing
