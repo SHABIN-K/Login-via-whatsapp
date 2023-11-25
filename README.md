@@ -43,6 +43,10 @@ A secure and user-friendly login system that utilizes WhatsApp for mobile number
    npm install
    npm start
    
+2. Open your web browser and navigate to http://examble.com/login.
+3. In your terminal, you will see a QR code.
+4. Open WhatsApp, go to the "Linking Device" option, and scan the QR code.
+   
 ### Contributing
    We welcome contributions from the community. Please fork the repository and submit pull requests.
 
